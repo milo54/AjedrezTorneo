@@ -1,6 +1,6 @@
 package logica;
 
 public class sonnebornberger extends tiebreak {
-	public int desempate();
+	public int desempate;
 
 }
